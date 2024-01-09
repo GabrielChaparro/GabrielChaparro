@@ -24,6 +24,14 @@ Background GIF by [Aliciel](https://www.pinterest.com/pin/5277724550564022/) on 
 
 ## 💻 My Tech Stack:
 
-[![Next.js, Svelte, Node.js, JavaScript, TypeScript, AWS, GCP, Solidity](https://skillicons.dev/icons?i=bash,docker,go,graphql,hibernate,java,maven,mysql,openshift,postman,rabbitmq,spring)](https://skillicons.dev)
+[![Bash, Docker, Go, Graphql, Hibernate, Java, Maven, MySQL, OpenShift, Postman, RabbitMQ, Spring](https://skillicons.dev/icons?i=bash,docker,go,graphql,hibernate,java,maven,mysql,openshift,postman,rabbitmq,spring)](https://skillicons.dev)
 
+## 🎮 When I'm AFK:
+
+![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
+
+
+</div>
 
